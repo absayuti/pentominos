@@ -1,6 +1,7 @@
       REM ------------------------------------------------------------------------------
-      REM  Pentominos for AGON LIGHT
-      REM     A puzzle-solving program for the AGON LIGHT BBC BASIC
+      REM  Pentominos for BBC BASIC SDL (Windows)
+      REM     A puzzle-solving program for the SDL version of BBC BASIC. 
+      REM     Should be compatible with AGON LIGHT's BBC BASIC; but is yet tested.
       REM
       REM  Originally:
       REM     Pentominos for commodore computers
